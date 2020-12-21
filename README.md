@@ -8,6 +8,7 @@ My blockchain &amp; cryptocurrency projects
 Reference Course: <a href="https://www.udemy.com/course/python-js-react-blockchain/">Python, JS, & React | Build a Blockchain & Cryptocurrency"</a> (Udemy)<br>
   </li><br>
  <li>Cryptochain<br>
-   Similar course by same lecturer, but in publishable server in JS & Test-driven coding.</li>
+   Similar course by same lecturer, but in publishable server in JS & Test-driven coding.<br>
+  Reference Course: <a href="https://www.udemy.com/course/build-blockchain-full-stack/">Full-stack blockchain programming course with Node.js, Jest, Express, React, Heroku, & more</a></li>
   
   </ul>
